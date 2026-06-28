@@ -19,6 +19,12 @@
 
 ## 図版要件
 
-Phase 3で、両プレイヤーから見た左右、前列・後列、nyumba、kichwa、kimbiを1枚で確認できる盤面図を設計する。
+![図2-1 Bao盤の全体像。上2列はNorth、下2列はSouthが使い、中央側が前列、外側が後列である。](../assets/images/fig-02-01-board-overview.svg)
+
+図2-1は盤の領域と向きを示す。
+
+![図2-2 特別な穴の位置。前列の両端がkichwa、その隣がkimbiで、A5とa5がnyumbaである。](../assets/images/fig-02-02-special-pits.svg)
+
+図2-2では、色だけでなく枠線と形でもnyumba、kichwa、kimbiを区別する。
 
 前章: [Bao la Kiswahiliとは](01-introduction.md)／次章: [初期配置](03-setup.md)

@@ -22,4 +22,6 @@
 
 16個以上の穴、takasia、合法手なしの条件はde Voogt原典との照合が残るため、確認状態を明示する。
 
+![図6-1 mtajiでは合法な開始穴のketeをすべて取り上げ、選んだ方向へ1個ずつ蒔く。](../assets/images/fig-06-01-mtaji-start.svg)
+
 前章: [namua](05-namua.md)／次章: [捕獲](07-capture.md)

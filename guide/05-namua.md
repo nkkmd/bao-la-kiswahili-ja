@@ -21,4 +21,6 @@
 
 捕獲の処理は[捕獲](07-capture.md)、継続は[relay sowing](08-relay-sowing.md)、nyumba固有の停止・継続は[nyumba](09-nyumba.md)で扱う。`takata`／`takasa`の資料差を注記する。
 
+![図5-1 namuaでは捕獲可能かを先に確認し、可能なら捕獲手、できない場合だけtakataを行う。](../assets/images/fig-05-01-namua-choice.svg)
+
 前章: [用語辞典](04-glossary.md)／次章: [mtaji](06-mtaji.md)

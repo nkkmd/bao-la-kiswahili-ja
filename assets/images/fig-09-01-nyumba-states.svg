@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="450" viewBox="0 0 960 450" role="img" aria-labelledby="title desc">
+  <title id="title">図9-1 nyumbaの状態</title>
+  <desc id="desc">nyumbaは所有中の特別な状態から始まる。条件により到達時に止めるか中身を蒔くかを選ぶ場合があり、中身を蒔く、または捕獲されると特別な機能を失う。</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#374151"/></marker></defs>
+  <rect width="960" height="450" fill="#fff"/>
+  <text x="480" y="40" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="700">nyumbaの状態変化</text>
+  <rect x="65" y="125" width="230" height="135" rx="20" fill="#fef3c7" stroke="#92400e" stroke-width="4"/>
+  <text x="180" y="168" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="700">所有中</text><text x="180" y="204" text-anchor="middle" font-family="sans-serif" font-size="17">特別な停止・選択あり</text><text x="180" y="232" text-anchor="middle" font-family="sans-serif" font-size="15">初期状態</text>
+  <rect x="365" y="95" width="230" height="105" rx="20" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <text x="480" y="138" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700">止めて保持する</text><text x="480" y="170" text-anchor="middle" font-family="sans-serif" font-size="15">条件を満たす場合</text>
+  <rect x="365" y="250" width="230" height="105" rx="20" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
+  <text x="480" y="293" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700">中身を蒔く</text><text x="480" y="325" text-anchor="middle" font-family="sans-serif" font-size="15">または捕獲される</text>
+  <rect x="665" y="250" width="230" height="105" rx="20" fill="#f3f4f6" stroke="#4b5563" stroke-width="3"/>
+  <text x="780" y="293" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700">特別機能を失う</text><text x="780" y="325" text-anchor="middle" font-family="sans-serif" font-size="15">通常穴として扱う</text>
+  <line x1="295" y1="170" x2="345" y2="150" stroke="#374151" stroke-width="3" marker-end="url(#arrow)"/><line x1="295" y1="220" x2="345" y2="285" stroke="#374151" stroke-width="3" marker-end="url(#arrow)"/><line x1="595" y1="302" x2="645" y2="302" stroke="#374151" stroke-width="3" marker-end="url(#arrow)"/><path d="M480 200 L480 230" stroke="#2563eb" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="480" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4b5563">5個になったnyumbaの扱いには資料上の地域差があるため、本文で分けて説明する。</text>
+</svg>

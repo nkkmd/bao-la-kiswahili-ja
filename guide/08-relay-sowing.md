@@ -22,4 +22,8 @@
 
 計算機用に定められた終わらない手の判定を、対人競技の正式ルールとして転用しない。
 
+![図8-1 蒔きの最後のketeが占有穴に入り、捕獲や停止条件がなければ、その穴の全keteを取って同じ方向へ蒔き続ける。](../assets/images/fig-08-01-relay-sowing.svg)
+
+![図8-2 蒔きの最後のketeが空穴へ入ると、通常はそこで手を終了する。](../assets/images/fig-08-02-stop-empty-pit.svg)
+
 前章: [捕獲](07-capture.md)／次章: [nyumba](09-nyumba.md)

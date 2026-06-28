@@ -20,4 +20,6 @@
 
 前列が空になる条件は複数資料で一致する。合法手なし、引き分け、終わらない手は資料ごとの根拠を分けて記載する。
 
+![図10-1 一方のプレイヤーの前列8穴がすべて空になると、そのプレイヤーは敗北する。](../assets/images/fig-10-01-empty-front-row.svg)
+
 前章: [nyumba](09-nyumba.md)／次章: [Bao la kujifunza](11-kujifunza.md)

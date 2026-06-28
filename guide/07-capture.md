@@ -19,6 +19,10 @@
 
 ## 図版要件
 
-Phase 3で、捕獲成立前、捕獲直後、捕獲したketeを蒔いた後の3段階図を設計する。
+![図7-1 捕獲が成立すると、相手穴のketeをすべて取り、対応するkichwaから自分側へ蒔く。](../assets/images/fig-07-01-capture-sequence.svg)
+
+![図7-2 左右のkichwa・kimbiと、捕獲したketeを蒔き始める側の関係。](../assets/images/fig-07-02-kichwa-kimbi-direction.svg)
+
+図7-2の方向規則はde Voogt原典との再照合対象である。本文執筆時に確認状態を併記する。
 
 前章: [mtaji](06-mtaji.md)／次章: [relay sowing](08-relay-sowing.md)
