@@ -61,8 +61,8 @@ Bao la Kiswahili（ザンジバル版）のルール、用語、地域差を検�
 ### R-003: de Voogt (2000–2001)
 
 - 著者: Alex de Voogt
-- タイトル: Baoの基本ルールと続編（記事名・掲載頁は要追加確認）
-- 掲載誌: *Abstract Games*, Issue 4（Winter 2000）およびIssue 5（Spring 2001）
+- タイトル: “Strategy in Bao: An Introduction” および “Strategy in Bao: Notation and the House”
+- 掲載誌: *Abstract Games*, Issue 4（Winter 2000）, pp. 21–22、およびIssue 5（Spring 2001）, pp. 22–23
 - Issue 4: https://www.abstractgames.org/uploads/1/1/6/4/116462923/abstract_games_issue_4.pdf
 - Issue 5: https://www.abstractgames.org/uploads/1/1/6/4/116462923/abstract_games_issue_5.pdf
 - 確認日: 2026-06-28
@@ -80,14 +80,32 @@ Bao la Kiswahili（ザンジバル版）のルール、用語、地域差を検�
 - 対象: 終わらない連続蒔き
 - 位置づけ: 特殊局面の検証資料。通常のルール全体を定める資料としては使用しない。
 
+### R-005: BaoルールのWeb上の統合解説
+
+- タイトル: “Bao la Kiswahili”
+- 掲載元: Mancala World Wiki
+- URL: https://mancala.fandom.com/wiki/Bao_la_Kiswahili
+- 確認日: 2026-06-28
+- 確認項目: `takata`、`marker`、`taxation` に相当する説明、nyumbaの地域差
+- 位置づけ: 出典階層の低い補助資料。R-001〜R-004にない英語圏の用語用例を確認するためだけに使い、正式ルールの根拠にはしない。
+
 ## 基準資料の暫定順位
 
 1. R-001をザンジバル版の中心資料候補とする。
 2. R-002で規則の条件分岐、用語、実装可能性を照合する。
 3. R-003で初心者向け説明とR-001以後の訂正を確認する。
 4. R-004は終わらない手に関する論点だけに用いる。
+5. R-005は用語用例の確認に限って参照する。
 
 この順位は暫定である。ザンジバルの競技団体が公表した規則、または現地競技者による新しい一次資料が見つかった場合は再評価する。
+
+## Phase 1で確認できなかった資料
+
+- R-001は著者公開の全文配布ページまで確認したが、2026-06-28時点で配布元のアクセス制限によりルール本文を取得・通読できなかった。
+- ザンジバルの競技団体または現地競技者が現在公開している規則本文は、2026-06-28の検索では確認できなかった。
+- Chama cha Baoやザンジバルの大会・団体の存在に触れる二次資料はあるが、規則本文と発行主体を検証できないため基準資料には加えていない。
+
+これらは資料不存在の断定ではない。入手できた時点で追加調査し、R-002・R-003に依存する暫定判断を再評価する。
 
 ## 資料間の差異
 
