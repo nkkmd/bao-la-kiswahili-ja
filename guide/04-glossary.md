@@ -1,32 +1,32 @@
 # 用語辞典
 
-## この章の目的
+この章は、本文で使う用語の短い確認表です。細かな成立条件はリンク先の章を参照してください。Phase 6で語源、異表記、用例をさらに拡充します。
 
-本文で使う専門用語の標準表記、短い意味、異表記をまとめる。
+| 用語 | 本書での意味 |
+| --- | --- |
+| Bao la Kiswahili | 本書が扱うBaoのルール系統。ザンジバル版を中心とする |
+| shimo／mashimo | 盤の穴。単数形／複数形 |
+| kete | 穴へ1個ずつ蒔く駒 |
+| 前列 | 両者が中央で向かい合う列。捕獲の成立に使う |
+| 後列 | 各プレイヤーの身体に近い外側の列 |
+| namua | 手元のketeを毎手1個ずつ盤へ入れる前半段階 |
+| mtaji | すべてのketeが盤上へ入った後半段階 |
+| 蒔き（sowing） | 所定数のketeを、自分の連続する穴へ1個ずつ置く操作 |
+| 捕獲（capture） | 相手前列の穴の全keteを取り、自分側で直ちに蒔く処理 |
+| relay sowing | 蒔き終わりの占有穴から全keteを取り、同じ手で蒔きを続ける仕組み |
+| endelea | R-002で用いられる、relay sowingによる継続の呼称 |
+| takata | 捕獲から始まらず、その手の途中でも捕獲を行わない手 |
+| nyumba | 各前列の特別な穴。所有中だけ停止や開始の例外がある |
+| kichwa | 各前列の左右端の穴 |
+| kimbi | 各前列でkichwaの隣にある穴 |
+| takasia | mtajiのtakataで生じる、特定の相手穴を空にできなくする制約 |
 
-- 対象読者: 用語をすばやく確認したいすべての読者
-- 扱う範囲: 用語の定義と表記。詳細なルールや手順は各章へ分ける
+## 表記上の注意
 
-## 収録予定
+R-002とR-003は、非捕獲手に`takasa`を用います。他資料には`takata`も見られるため、本書は`takata`を標準表記とし、資料を説明するときだけ`takasa`を併記します。
 
-- Bao la Kiswahili
-- shimo／mashimo
-- kete
-- namua
-- mtaji
-- nyumba
-- kichwa
-- kimbi
-- takata
-- takasa
-- takasia
-- endelea
-- capture（捕獲）
-- sowing（蒔き）
-- relay sowing
+`marker`は「捕獲可能穴」を表す英語の説明語、`taxation`は「nyumbaからの2個蒔き」を表す英語の説明語です。本書では専門用語として採用しません。R-002に見られる`kitchwa`は`kichwa`へ統一します。
 
-## 編集方針
-
-Phase 1の[用語草稿](../docs/drafts/terminology.md)を基礎にする。`marker` と `taxation` は標準用語にせず、必要な概念を日本語で説明する。
+用語の根拠と未確認事項: [用語一覧（Phase 1草稿）](../docs/drafts/terminology.md)
 
 前章: [初期配置](03-setup.md)／次章: [namua](05-namua.md)
