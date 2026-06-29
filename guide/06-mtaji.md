@@ -68,4 +68,6 @@ takasiaは条件判定が複雑です。初学者同士の対局では、適用�
 
 根拠: R-002, pp. 167–168。mtajiの骨格はR-003, Issue 4, p. 22でも確認。
 
+関連例: [E15〜E22 mtaji](examples/README.md#mtaji)
+
 前章: [namua](05-namua.md)／次章: [捕獲](07-capture.md)

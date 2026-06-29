@@ -56,4 +56,6 @@ R-002には、所定数を超えてketeを蒔く手を「終わらない手」�
 
 根拠: R-002, pp. 164–165、R-003, Issue 4, pp. 21–22。終わらない手はR-004。
 
+関連例: [E26〜E28 relay sowingとtakata](examples/README.md#relay-sowingとtakata)
+
 前章: [捕獲](07-capture.md)／次章: [nyumba](09-nyumba.md)

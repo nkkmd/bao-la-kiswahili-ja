@@ -69,4 +69,6 @@ R-002とR-003は非捕獲手を`takasa`と呼びます。本書では`takata`に
 
 根拠: R-002, pp. 165–167、R-003, Issue 4, pp. 21–22およびIssue 5, pp. 22–23。
 
+関連例: [E05〜E14 namua](examples/README.md#namua)
+
 前章: [用語辞典](04-glossary.md)／次章: [mtaji](06-mtaji.md)

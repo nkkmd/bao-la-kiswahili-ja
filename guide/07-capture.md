@@ -62,4 +62,6 @@ namuaで、中央寄りの前列穴に自分と相手のketeが向かい合っ�
 
 根拠: R-002, pp. 164–167、R-003, Issue 4, pp. 21–22。
 
+関連例: [E23〜E25 捕獲方向](examples/README.md#捕獲方向)
+
 前章: [mtaji](06-mtaji.md)／次章: [relay sowing](08-relay-sowing.md)

@@ -74,4 +74,6 @@ nyumbaの所有・停止・2個蒔きの骨格はR-002とR-003で確認してい
 
 根拠: R-002, pp. 165–167、R-003, Issue 4, pp. 21–22およびIssue 5, pp. 22–23。
 
+関連例: [E29 nyumba](examples/README.md#e29-捕獲手が所有中nyumbaへ到達する)
+
 前章: [relay sowing](08-relay-sowing.md)／次章: [終局と勝敗](10-endgame.md)

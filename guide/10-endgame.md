@@ -56,4 +56,6 @@ R-002には棋譜例で投了が記録されています。勝ち目がないと
 
 根拠: R-002, pp. 164–168、R-003, Issue 4, p. 21。終わらない手はR-004も参照。
 
+関連例: [E31〜E32 終局](examples/README.md#nyumbatakasia終局)
+
 前章: [nyumba](09-nyumba.md)／次章: [Bao la kujifunza](11-kujifunza.md)
