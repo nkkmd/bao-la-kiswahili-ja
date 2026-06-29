@@ -12,15 +12,18 @@
 次の語は原則として原語を維持する。
 
 - Bao la Kiswahili
+- kete
+- shimo／mashimo
 - namua
 - mtaji
 - nyumba
 - takata
+- takasia
 - kichwa
 - kimbi
 - relay sowing
 
-`capture` は「捕獲」、`sowing` は「蒔き」を暫定的な日本語表記とする。
+`capture` は「捕獲」、`sowing` は「蒔き」と表記する。
 
 日本語の補足は初出時または用語辞典で示す。最終的な語義と表記は、資料調査後に `guide/04-glossary.md` と同期する。
 
@@ -45,7 +48,7 @@
 
 短い草稿では空見出しを並べず、必要な課題を `docs/TODO.md` に記録する。
 
-## Phase 1の用語判断
+## 用語判断
 
 本文では次のように扱う。
 
@@ -53,3 +56,11 @@
 - `marker` は標準用語にせず、必要に応じて「捕獲可能穴」と説明する。
 - `taxation` は標準用語にせず、「nyumbaからの2個蒔き」と説明する。
 - `kitchwa` は採用せず、`kichwa` に統一する。
+- `seed`、`stone`、`counter` は本文の駒名にせず、`kete` に統一する。
+- `store`、`stock` は本文では「手元」とする。
+- `pit`、`hole` は本文では「穴」とし、原語が必要な場合だけ `shimo`／`mashimo` を添える。
+- `capturing pit` は「捕獲穴」、`captured pit` は「被捕獲穴」とする。
+- `play the house` は「nyumbaを使う」と説明する。
+- `infinite move` は「終わらない手」とするが、計算機用の裁定を対人規則へ転用しない。
+
+読み方は日本語で参照するための目安とし、音韻やアクセントを確定する表記として扱わない。語源や直訳は、根拠資料を確認できるまで記載しない。
