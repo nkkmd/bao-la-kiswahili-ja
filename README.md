@@ -28,6 +28,7 @@ Bao la Kiswahili（ザンジバル版）を、日本語で正確に学ぶため�
 ## プロジェクト資料
 
 - [ロードマップ](docs/ROADMAP.md)
+- [正式版リリースロードマップ](docs/RELEASE_ROADMAP.md)
 - [表記・用語ガイド](docs/STYLE_GUIDE.md)
 - [参考文献](docs/REFERENCES.md)
 - [レビュー記録](docs/REVIEW.md)
