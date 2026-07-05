@@ -10,6 +10,7 @@
 - 上からNorth後列 `b`、North前列 `a`、South前列 `A`、South後列 `B` とする。
 - Southから見た穴番号は左から右へ1〜8とする。
 - Northから見た穴番号も本人の左から右へ1〜8とするため、紙面上では右から左へ1〜8となる。
+- 真向かいの前列穴は `A1` と `a8`、`A2` と `a7`、……、`A8` と `a1` のように対応する。
 - Southのnyumbaは `A5`、Northのnyumbaは `a5` とする。
 
 座標の根拠は `docs/REFERENCES.md` のR-002 Appendix C, Figure C.2による。公開前にde Voogt原典と再照合する。
