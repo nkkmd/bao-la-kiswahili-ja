@@ -4,7 +4,9 @@ Bao la Kiswahili（ザンジバル版）を、日本語で正確に学ぶため�
 
 ## リリース状態
 
-**現在の公開版はドラフト版 `v0.1.0-draft` です。**
+**本リポジトリは、正式公開前の検証版 `v0.2.0` の公開準備を整えた状態です。**
+
+`v0.2.0` はGitHubのPre-releaseとして公開する予定です。タグとGitHub Releaseは未作成で、現在公開済みのReleaseは `v0.1.0-draft` です。[v0.2.0の説明本文](docs/releases/v0.2.0.md)を用意しています。提供形式はリポジトリ内のMarkdownとSVGです。
 
 第00章〜第10章のルール本文、図版、規則確認用の局面例、用語辞典、FAQ、戦術入門を収録しています。ただし、次の制約が残っています。
 
@@ -17,7 +19,7 @@ Bao la Kiswahili（ザンジバル版）を、日本語で正確に学ぶため�
 
 2026-10-08に、[takasia](guide/06-mtaji.md#takasia)を本書の採用規則として確定しました。[完全局面 E30](guide/examples/README.md#e30-takasia対象穴でrelay-sowingを止める)と[採用記録](docs/drafts/takasia-adoption-20261008.md)を収録しています。ガイド全体の正式版 `v1.0.0` の公開条件は、引き続き別途検証します。
 
-同日に[公開前の検証記録](docs/drafts/v1-validation-20261008.md)と[完全局面 V01〜V04](guide/examples/validation-cases.md)を追加しました。判定は**正式公開の条件未充足**です。収録範囲・公開形式、外部レビュー、RCの確認が残ります。
+同日に[公開前の検証記録](docs/drafts/v1-validation-20261008.md)と[完全局面 V01〜V04](guide/examples/validation-cases.md)を追加しました。判定は**v1.0.0の公開条件未充足**です。正式版の収録範囲・公開形式、外部レビュー、RCの確認が残ります。v0.2.0は、これらの制約を明示して確認を受けるための検証版です。
 
 ## 読み始める
 
