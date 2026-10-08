@@ -10,5 +10,6 @@
   <rect x="630" y="125" width="145" height="100" rx="18" fill="#dcfce7" stroke="#166534" stroke-width="4"/>
   <text x="702" y="165" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="700">ここで終了</text>
   <text x="702" y="198" text-anchor="middle" font-family="sans-serif" font-size="16">取り上げない</text>
+  <text x="410" y="270" text-anchor="middle" font-family="sans-serif" font-size="17">到達前は0個。最後の1個を置いた後は1個。</text>
   <text x="410" y="325" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4b5563">nyumbaなどの特別な停止条件は別に確認する。</text>
 </svg>

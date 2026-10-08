@@ -41,9 +41,10 @@ Bao la Kiswahili（ザンジバル版）のルール、用語、地域差を検�
 - 全文の補足資料: https://www.researchgate.net/publication/318912497_Limits_of_the_Mind_full_text
 - 確認日: 2026-06-28、2026-10-08（全文182ページを取得）
 - 対象: ザンジバルの Bao と Bao 名人
-- 確認項目: 書誌情報、ザンジバルの名人に基づく調査、ルール章pp. 35–44（特にtakasiaのpp. 41–43）、p. 151の実戦記録中のtakasia適用例
-- 位置づけ: 本プロジェクトの中心資料。全文の取得とtakasiaの原典照合を完了した。他の規則とR-002・R-003の項目別比較、本全体の通読、実戦棋譜の全盤面再生は未完了。通常の書誌ページから取得できた46ページの抜粋は、ルール章後半を含まないため全文と区別する。
+- 確認項目: 書誌情報、ザンジバルの名人に基づく調査、ルール章pp. 35–44の主要規則26項目、p. 151の実戦冒頭2手番とtakasiaの適用記録
+- 位置づけ: 本プロジェクトの中心資料。全文の取得、takasiaと主要規則の項目別照合を完了した。5個のnyumbaからの開始境界、本全体の通読、実戦棋譜の全対局再生、現行運用の外部確認は未完了。通常の書誌ページから取得できた46ページの抜粋は、ルール章後半を含まないため全文と区別する。
 - 採用記録: [takasiaの正式採用](drafts/takasia-adoption-20261008.md)。取得版のSHA-256と頁対応も記録する。
+- 追加照合: [正式版の検証記録](drafts/v1-validation-20261008.md)。R-002・R-003との主要規則比較、資料差、未解決事項を記録する。
 
 ### R-002: Donkers (2003)
 
@@ -57,6 +58,7 @@ Bao la Kiswahili（ザンジバル版）のルール、用語、地域差を検�
 - PDF: https://project.dke.maastrichtuniversity.nl/games/files/phd/Donkers_thesis.pdf
 - 確認日: 2026-06-28
 - 対象: Appendix C, “Zanzibar Bao Rules for the Computer”, pp. 163–168
+- 再確認日: 2026-10-08（全文PDFからAppendix Cを再照合）
 - 確認項目: ボード、初期配置、namua、mtaji、捕獲、endelea、nyumba、takasa、takasia、終局、棋譜表記
 - 位置づけ: R-001をもとに計算機向けに形式化した比較資料。無限手の扱いなど、競技規則そのものではない追加規則を含むため、R-001より優先しない。
 
@@ -69,6 +71,7 @@ Bao la Kiswahili（ザンジバル版）のルール、用語、地域差を検�
 - Issue 5: https://www.abstractgames.org/uploads/1/1/6/4/116462923/abstract_games_issue_5.pdf
 - 確認日: 2026-06-28
 - 対象: Baoの基本ルール、nyumba、棋譜、基本手
+- 再確認日: 2026-10-08（両記事を再照合し、Issue 5の5個時の追加説明と地域差を補足）
 - 位置づけ: R-001の著者自身による入門的解説。Issue 5にIssue 4の記述を訂正する箇所があるため、単独号だけを根拠にしない。
 
 ### R-004: Kronenburg, Donkers and de Voogt (2006)
@@ -81,6 +84,8 @@ Bao la Kiswahili（ザンジバル版）のルール、用語、地域差を検�
 - 確認日: 2026-06-28
 - 対象: 終わらない連続蒔き
 - 位置づけ: 特殊局面の検証資料。通常のルール全体を定める資料としては使用しない。
+- 著者全文: https://www.researchgate.net/publication/220174528_NEVER-ENDING_MOVES_IN_BAO
+- 再確認日: 2026-10-08（全文PDF pp. 74–78を照合。Figure 3の掲載周期218と再計算228の差は未解決。教材へ転用しない）
 
 ### R-005: BaoルールのWeb上の統合解説
 

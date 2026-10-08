@@ -120,6 +120,8 @@
 - 変更確認: `git status --short`
 - 差分確認: `git diff`
 - takasia完全局面E30の独立検証: `python3 tools/verify_takasia.py`（全ルールのテストではない）
+- 完全局面V01〜V04とV05の未解決差の再現: `python3 tools/verify_rule_cases.py`（全対局エンジンではない）
+- 相対リンク・アンカー・連番・図版参照の検査: `python3 tools/verify_release.py`（外部URLと描画は別途確認）
 
 標準の lint、test、build コマンドは現時点では未定義です。導入した場合はこの文書も更新してください。
 

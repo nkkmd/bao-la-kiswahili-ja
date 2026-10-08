@@ -9,5 +9,5 @@
   <path d="M250 125 C220 70,180 70,160 125" fill="none" stroke="#2563eb" stroke-width="4" marker-end="url(#blue)"/>
   <path d="M700 125 C730 70,770 70,790 125" fill="none" stroke="#ea580c" stroke-width="4" marker-end="url(#orange)"/>
   <g font-family="sans-serif" text-anchor="middle"><text x="205" y="285" font-size="18" fill="#1d4ed8">左kichwa／kimbi</text><text x="745" y="285" font-size="18" fill="#c2410c">右kichwa／kimbi</text><text x="475" y="340" font-size="17">中央4穴: namuaの手始めでは左右を選択可能。継続中は既存の方向を維持する。</text></g>
-  <text x="480" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4b5563">方向の詳細はR-001との再照合対象。本文では確認状態を併記する。</text>
+  <text x="480" y="390" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4b5563">左右は本人から見た向き。R-001, p. 39と照合済み。本文とV02・V04も参照。</text>
 </svg>
