@@ -22,7 +22,7 @@
 
 ## リリース状態
 
-初回公開は、未確認事項を明示したドラフト版 `v0.1.0-draft` とした。現在は、正式公開前の検証版 `v0.2.0` の公開準備を整えている。提供形式はMarkdownとSVGで、GitHubではPre-releaseとして公開する。タグとReleaseは未作成である。
+初回公開は、未確認事項を明示したドラフト版 `v0.1.0-draft` とした。現在の公開版は、2026-10-08にGitHubの[Pre-releaseとして公開した検証版 `v0.2.0`](https://github.com/nkkmd/bao-la-kiswahili-ja/releases/tag/v0.2.0)である。提供形式はMarkdownとSVGで、公開時点の内容は[`v0.2.0`タグ](https://github.com/nkkmd/bao-la-kiswahili-ja/tree/v0.2.0)で確認できる。
 
 この版は完成版ではない。2026-10-08にR-001全文を取得し、takasiaを原典照合・完全局面検証のうえ正式採用した。同日、他の主要規則も項目別に照合した。5個のnyumbaからの開始境界、外部の競技者・研究者レビュー、収録範囲・公開形式、Bao la kujifunzaの基準資料確認などは残っている。大会や地域で明示された規則がある場合は、そちらを優先する。
 

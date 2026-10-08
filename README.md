@@ -4,9 +4,9 @@ Bao la Kiswahili（ザンジバル版）を、日本語で正確に学ぶため�
 
 ## リリース状態
 
-**本リポジトリは、正式公開前の検証版 `v0.2.0` の公開準備を整えた状態です。**
+**現在の公開版は、正式公開前の検証版 `v0.2.0` です。**
 
-`v0.2.0` はGitHubのPre-releaseとして公開する予定です。タグとGitHub Releaseは未作成で、現在公開済みのReleaseは `v0.1.0-draft` です。[v0.2.0の説明本文](docs/releases/v0.2.0.md)を用意しています。提供形式はリポジトリ内のMarkdownとSVGです。
+2026-10-08にGitHubの[Pre-releaseとして公開しました](https://github.com/nkkmd/bao-la-kiswahili-ja/releases/tag/v0.2.0)。公開版は[`v0.2.0`タグ](https://github.com/nkkmd/bao-la-kiswahili-ja/tree/v0.2.0)で確認できます。[v0.2.0の説明本文](docs/releases/v0.2.0.md)も収録しています。提供形式はリポジトリ内のMarkdownとSVGです。
 
 第00章〜第10章のルール本文、図版、規則確認用の局面例、用語辞典、FAQ、戦術入門を収録しています。ただし、次の制約が残っています。
 
