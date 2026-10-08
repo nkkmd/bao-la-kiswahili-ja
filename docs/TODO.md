@@ -1,11 +1,11 @@
 # TODO
 
-## v0.2.0の公開準備
+## v0.2.0の公開（完了）
 
 - [x] 正式公開前の検証版として、版の表記・提供形式・変更履歴・[説明本文](releases/v0.2.0.md)を整える
 - [x] 既知の制約とv1.0.0の未充足条件を明示する
-- [ ] `v0.2.0`タグを作成し、GitHub ReleaseをPre-releaseとして公開する
-- [ ] 公開後にREADMEと変更履歴の状態・公開日を更新する
+- [x] `v0.2.0`タグを作成し、GitHub ReleaseをPre-releaseとして公開する（2026-10-08、[公開版](https://github.com/nkkmd/bao-la-kiswahili-ja/releases/tag/v0.2.0)）
+- [x] 公開後にREADMEと変更履歴の状態・公開日を更新する（2026-10-08）
 
 v1.0.0の必須条件は[正式版リリースロードマップ](RELEASE_ROADMAP.md)で管理し、検証版の公開によって完了扱いにしない。
 
