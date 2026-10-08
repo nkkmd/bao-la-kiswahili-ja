@@ -4,7 +4,7 @@
 
 ## 読む順序
 
-初めて学ぶ読者は、`01-introduction.md` から `10-endgame.md` まで順に読む。用語だけを確認したい場合は `04-glossary.md`、簡略版で練習したい場合は `11-kujifunza.md` を参照する。
+初めて学ぶ読者は、`01-introduction.md` から `10-endgame.md` まで順に読む。用語だけを確認したい場合は `04-glossary.md` を参照する。`11-kujifunza.md` は構成案で、練習用の完成したルールではない。
 
 ## 章一覧
 
@@ -28,5 +28,6 @@
 ## 補助教材
 
 - [規則確認用の局面例](examples/README.md): 盤、初期配置、namua、mtaji、捕獲、relay sowing、nyumba、takasia、終局を32例で確認する
+- [正式版検証用の完全局面](examples/validation-cases.md): 16個のtakata、実戦冒頭2手番、nyumbaの到達個数、kimbiの方向変更をV01〜V04で確認する
 
-第00章〜第10章の細則は、主にR-002とR-003を照合して記述している。takasiaはR-001・R-006を照合して正式採用し、R-009の完全局面で検証した。他の細則の項目別照合など、残る制約は各章の「地域差・確認メモ」と `docs/TODO.md` に記録する。
+第00章〜第10章の主要規則はR-001の原典と比較資料を項目別に照合した。takasiaはR-001・R-006を照合して正式採用し、R-009の完全局面で検証した。5個のnyumbaからの開始境界などの残る制約は、各章の「地域差・確認メモ」、[検証記録](../docs/drafts/v1-validation-20261008.md)、`docs/TODO.md` に記録する。
