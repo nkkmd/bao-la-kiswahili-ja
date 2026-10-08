@@ -119,6 +119,7 @@
 - テキスト検索: `rg "検索語"`
 - 変更確認: `git status --short`
 - 差分確認: `git diff`
+- takasia完全局面E30の独立検証: `python3 tools/verify_takasia.py`（全ルールのテストではない）
 
 標準の lint、test、build コマンドは現時点では未定義です。導入した場合はこの文書も更新してください。
 
