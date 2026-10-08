@@ -8,12 +8,14 @@ Bao la Kiswahili（ザンジバル版）を、日本語で正確に学ぶため�
 
 第00章〜第10章のルール本文、図版、規則確認用の局面例、用語辞典、FAQ、戦術入門を収録しています。ただし、次の制約が残っています。
 
-- 中心資料候補であるde Voogt (1995) のルール本文は未通読です。
+- de Voogt (1995) の全文を入手し、takasiaの原典照合を完了しました。他の細則の項目別照合は残っています。
 - Bao競技者およびmancala研究者による外部レビューは未実施です。
 - nyumbaのmtajiへの持ち越しなど、資料間で一致しない細則があります。
 - Bao la kujifunzaの章は構成案であり、本文は未確定です。
 
 大会や地域で明示された規則がある場合は、そちらを優先してください。未確認事項は[TODO](docs/TODO.md)、資料差と根拠は[参考文献](docs/REFERENCES.md)および[調査メモ](docs/drafts/zanzibar-rules-baseline.md)で確認できます。
+
+2026-10-08に、[takasia](guide/06-mtaji.md#takasia)を本書の採用規則として確定しました。[完全局面 E30](guide/examples/README.md#e30-takasia対象穴でrelay-sowingを止める)と[採用記録](docs/drafts/takasia-adoption-20261008.md)を収録しています。ガイド全体の正式版 `v1.0.0` の公開条件は、引き続き別途検証します。
 
 ## 読み始める
 
